@@ -1,0 +1,77 @@
+{"level":"info","message":"Unwanted GET request from ::ffff:127.0.0.1"}
+{"message":"User: 17 asked for Image: \\images\\00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: \\images\\00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: \\images\\00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: \\images\\00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: \\images\\00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: .\\images\\00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: ./images/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: ./images/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: ./images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 19 asked for Image: .\\images\\0b6f9105fc\\00000.jpg","level":"info"}
+{"message":"User: 17 asked for Image: ./images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"level":"info","message":"Unwanted GET request from ::ffff:127.0.0.1"}
+{"level":"info","message":"Unwanted GET request from ::ffff:127.0.0.1"}
+{"level":"info","message":"Unwanted GET request from ::ffff:127.0.0.1"}
+{"level":"info","message":"Unwanted GET request from ::ffff:127.0.0.1"}
+{"level":"info","message":"Unwanted GET request from ::ffff:127.0.0.1"}
+{"level":"info","message":"Unwanted GET request from ::ffff:127.0.0.1"}
+{"level":"info","message":"Unwanted GET request from ::ffff:127.0.0.1"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"level":"info","message":"User: 17 submitted annotation for Image: /images/0b6f9105fc/00110.jpg"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00130.jpg","level":"info"}
+{"level":"info","message":"User: 17 submitted annotation for Image: /images/0b6f9105fc/00130.jpg"}
+{"level":"info","message":"User: 17 completed all annotation."}
+{"message":"User: 19 asked for Image: .\\images\\0b6f9105fc\\00000.jpg","level":"info"}
+{"message":"User: 19 asked for Image: .\\images\\0b6f9105fc\\00000.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\"}","level":"info"}
+{"level":"info","message":"User: 17 submitted annotation for Image: /images/0b6f9105fc/00110.jpg"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.png,/images/0b6f9105fc/00110-1.png","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.png\",\"bbox_url\":\"/images/0b6f9105fc/00110-1.png\"}","level":"info"}
+{"level":"info","message":"Unwanted GET request from ::ffff:127.0.0.1"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.png,/images/0b6f9105fc/00110-1.png","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.png\",\"bbox_url\":\"/images/0b6f9105fc/00110-1.png\"}","level":"info"}
+{"level":"warn","message":"User: 17 submitted annotation for unrecognized image: /images/0b6f9105fc/00110.png"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.jpg\",\"bbox_url\":\"/images/0b6f9105fc/00110-1.png\"}","level":"info"}
+{"level":"info","message":"User: 17 submitted annotation for Image: /images/0b6f9105fc/00110.jpg"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00130.jpg","level":"info"}
+{"message":"reply_data: {\"index\":\"1\",\"img_url\":\"/images/0b6f9105fc/00130.jpg\",\"bbox_url\":\"/images/0b6f9105fc/00130-1.png\"}","level":"info"}
+{"level":"info","message":"User: 17 submitted annotation for Image: /images/0b6f9105fc/00130.jpg"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.png","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.png\",\"bbox_url\":\"/images/0b6f9105fc/00110-1.png\"}","level":"info"}
+{"message":"User: 17 asked for Image: /images/0b6f9105fc/00110.png","level":"info"}
+{"message":"reply_data: {\"index\":\"0\",\"img_url\":\"/images/0b6f9105fc/00110.png\",\"bbox_url\":\"/images/0b6f9105fc/00110-1.png\"}","level":"info"}

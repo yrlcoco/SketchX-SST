@@ -1,0 +1,7 @@
+./node_modules/*
+.gitignore
+./images/*
+./all_data_bbox.json
+./all_data.json
+./all_data_ori.json
+./all_data_bbox_img.json

@@ -3,6 +3,8 @@ const express = require('express');
 var cors = require('cors');
 const app = express();
 const bodyParser = require('body-parser');
+const path =require('path');
+// const multer = require('multer');
 const port = 8000;
 
 const logger = winston.createLogger({
@@ -16,8 +18,13 @@ app.use(cors());
 app.use(bodyParser.json({limit: '700mb'}));
 app.use(bodyParser.urlencoded({limit: '700mb', extended: true}));
 
+// var upload = multer({ dest: 'uploads/' })
+app.use(express.static('public'));
+// app.use('/public/image',express.static('./public/image'))
+
 let fs = require('fs');
 var all_data = JSON.parse(fs.readFileSync('all_data.json', 'utf-8'));
+var all_data_bbox = JSON.parse(fs.readFileSync('all_data_bbox.json', 'utf-8'));
 
 app.get('/', (req, res) => {
 	logger.log({level: 'info', message: 'Unwanted GET request from ' + req.socket.remoteAddress});
@@ -34,15 +41,17 @@ app.post('/get', (req, res) => {
 	}
 	user_urls = Object.keys(all_data[user_id]);
 	all_urls = all_data['users'][user_id];
-	flag = true
+	all_bbox_urls = all_data_bbox['users'][user_id];
+	flag = true;
 	for (let i=0; i<all_urls.length; i++) {
 		if (!user_urls.includes(all_urls[i])) {
 			logger.info('User: '+user_id+' asked for Image: '+all_urls[i]);
 			var reply_data = JSON.stringify({
-				'index' : String(i),
-				'img_url' : all_urls[i],
+				"index" : String(i),
+				"img_url" : all_urls[i], //path.join(__dirname+all_urls[i]),
+				"bbox_url": all_bbox_urls[i],
 			});
-			// res.end(all_urls[i]);
+			logger.info('reply_data: '+reply_data);			
 			res.end(reply_data);
 			flag = false;
 			return;
