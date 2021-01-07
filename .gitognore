@@ -1,7 +1,10 @@
 ./node_modules/*
 .gitignore
-./images/*
+./public/*
 ./all_data_bbox.json
 ./all_data.json
 ./all_data_ori.json
 ./all_data_bbox_img.json
+./combined.log
+./package_an.json
+./package-lock-an.json
