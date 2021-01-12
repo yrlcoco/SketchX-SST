@@ -28,7 +28,7 @@ def drawPNG (vector_images, side=(720,1280), time=15):
                         #print('cordList: ', cordList)
                         for cord in cordList:
                                 #print('cord: ', cord)
-                                if (cord[0] > 0 and  cord[1] > 0) and (cord[0] < side[0] and  cord[1] < side[1]):
+                                if (cord[0] > 0 and  cord[1] > 0) and (cord[0] < side[1] and  cord[1] < side[0]):
                                         raster_image[cord[1], cord[0]] = 0
                                         #raster_image[cord[0], cord[1]] = 0
                         if pen_state == [0, 1, 0]:
@@ -46,7 +46,7 @@ def drawPNG (vector_images, side=(720,1280), time=15):
 
 
 if __name__ == "__main__":
-        output_dir = "output/size1280"
+        output_dir = "output/size256"
         #os.makedir(output_dir, exists_ok=True)
         all_data = json.load(open("all_data.json", "r"))
         user_list = all_data['users']
